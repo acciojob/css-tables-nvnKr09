@@ -5,7 +5,7 @@ td,th{
 	padding:0.5rem;
 }
 tr:nth-child(odd){
-	background:#ffffff;
+	background:rgb(242, 242, 242);
 }
 tr:nth-child(even){
 	background:rgb(242, 242, 242);
